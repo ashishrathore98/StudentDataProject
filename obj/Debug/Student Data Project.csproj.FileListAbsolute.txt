@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Day13\Student Data Project\Student Data Project\bin\Debug\Student Data Project.exe.config
+D:\SimpliLearn Course\Day13\Student Data Project\Student Data Project\bin\Debug\Student Data Project.exe
+D:\SimpliLearn Course\Day13\Student Data Project\Student Data Project\bin\Debug\Student Data Project.pdb
+D:\SimpliLearn Course\Day13\Student Data Project\Student Data Project\obj\Debug\Student Data Project.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Day13\Student Data Project\Student Data Project\obj\Debug\Student Data Project.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Day13\Student Data Project\Student Data Project\obj\Debug\Student Data Project.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Day13\Student Data Project\Student Data Project\obj\Debug\Student Data Project.exe
+D:\SimpliLearn Course\Day13\Student Data Project\Student Data Project\obj\Debug\Student Data Project.pdb
